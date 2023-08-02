@@ -1,2 +1,2 @@
 # World-News-Aggregator
-Alll the news that's fit to print
+All the news that's fit to print
